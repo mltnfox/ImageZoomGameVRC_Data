@@ -1,0 +1,125 @@
+{
+    "name": "Classic Objects & Items",
+    "items": [
+        {
+            "image": 1,
+            "caption": "Toothbrush",
+            "width": 1280,
+            "height": 960
+        },
+        {
+            "image": 2,
+            "caption": "Remote control",
+            "width": 1280,
+            "height": 853
+        },
+        {
+            "image": 3,
+            "caption": "Coffee mug",
+            "width": 1280,
+            "height": 853
+        },
+        {
+            "image": 4,
+            "caption": "Piano/Keyboard Keys",
+            "width": 1280,
+            "height": 853
+        },
+        {
+            "image": 5,
+            "caption": "Computer Keyboard Keys",
+            "width": 1280,
+            "height": 853
+        },
+        {
+            "image": 7,
+            "caption": "Pizza",
+            "width": 1280,
+            "height": 960
+        },
+        {
+            "image": 8,
+            "caption": "Cereal/Cheerios",
+            "width": 1280,
+            "height": 833
+        },
+        {
+            "image": 9,
+            "caption": "Pasta/Noodles/Galets",
+            "width": 1280,
+            "height": 833
+        },
+        {
+            "image": 10,
+            "caption": "Staples",
+            "width": 1280,
+            "height": 847
+        },
+        {
+            "image": 11,
+            "caption": "Stapler",
+            "width": 1280,
+            "height": 851
+        },
+        {
+            "image": 12,
+            "caption": "Paperclips",
+            "width": 1280,
+            "height": 960
+        },
+        {
+            "image": 13,
+            "caption": "Ink pen",
+            "width": 1280,
+            "height": 961
+        },
+        {
+            "image": 14,
+            "caption": "Tape measure",
+            "width": 1280,
+            "height": 852
+        },
+        {
+            "image": 15,
+            "caption": "Cassette tape",
+            "width": 1280,
+            "height": 853
+        },
+        {
+            "image": 16,
+            "caption": "Liquid soap dispenser",
+            "width": 1280,
+            "height": 853
+        },
+        {
+            "image": 17,
+            "caption": "Whisk",
+            "width": 1280,
+            "height": 853
+        },
+        {
+            "image": 18,
+            "caption": "Cheese grater",
+            "width": 853,
+            "height": 1280
+        },
+        {
+            "image": 19,
+            "caption": "Can opener",
+            "width": 1280,
+            "height": 853
+        },
+        {
+            "image": 20,
+            "caption": "Cork screw",
+            "width": 1280,
+            "height": 841
+        },
+        {
+            "image": 32,
+            "caption": "Red wine",
+            "width": 1280,
+            "height": 853
+        }
+    ]
+}

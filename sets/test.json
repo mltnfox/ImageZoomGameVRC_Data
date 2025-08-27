@@ -1,8 +1,11 @@
 {
     "name": "test",
-    "images": [
+    "items": [
         {
-            "imageId": 0
+            "image": 0,
+            "caption": "Test Image",
+            "width": 249,
+            "height": 230
         }
     ]
 }

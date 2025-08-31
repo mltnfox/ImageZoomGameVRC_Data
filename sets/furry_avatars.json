@@ -12,6 +12,54 @@
             "caption": "Taidum by Irix",
             "width": 1096,
             "height": 1080
+        },
+        {
+            "image": 55,
+            "caption": "Deuzear by Abiboi",
+            "width": 1042,
+            "height": 1280
+        },
+        {
+            "image": 56,
+            "caption": "Pupper HD by Tosca",
+            "width": 1005,
+            "height": 565
+        },
+        {
+            "image": 57,
+            "caption": "Novabeast by Kittomatic",
+            "width": 1005,
+            "height": 565
+        },
+        {
+            "image": 58,
+            "caption": "Nardoragon by Nardoiri",
+            "width": 1280,
+            "height": 720
+        },
+        {
+            "image": 59,
+            "caption": "Wickerbeast King by Jin A",
+            "width": 1005,
+            "height": 565
+        },
+        {
+            "image": 60,
+            "caption": "Regulus by Gigasuke Shoka",
+            "width": 611,
+            "height": 611
+        },
+        {
+            "image": 61,
+            "caption": "Pupper by ScoutArtz",
+            "width": 1280,
+            "height": 1014
+        },
+        {
+            "image": 62,
+            "caption": "Haggita'vali by Haggets",
+            "width": 1280,
+            "height": 909
         }
     ]
 }

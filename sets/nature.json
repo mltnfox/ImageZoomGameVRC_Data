@@ -76,8 +76,8 @@
         {
             "image": 33,
             "caption": "Desert",
-            "width": 853,
-            "height": 1280
+            "width": 1280,
+            "height": 1920
         },
         {
             "image": 34,
@@ -102,6 +102,12 @@
             "caption": "Ant",
             "width": 1280,
             "height": 853
+        },
+        {
+            "image": 63,
+            "caption": "Domestic cat",
+            "width": 1280,
+            "height": 885
         }
     ]
 }

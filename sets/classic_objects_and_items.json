@@ -120,6 +120,90 @@
             "caption": "Red wine",
             "width": 1280,
             "height": 853
+        },
+        {
+            "image": 40,
+            "caption": "Zipper",
+            "width": 1280,
+            "height": 853
+        },
+        {
+            "image": 41,
+            "caption": "Rubber bands",
+            "width": 1280,
+            "height": 913
+        },
+        {
+            "image": 42,
+            "caption": "Thumbtack",
+            "width": 1280,
+            "height": 913
+        },
+        {
+            "image": 43,
+            "caption": "Eraser",
+            "width": 1280,
+            "height": 960
+        },
+        {
+            "image": 44,
+            "caption": "Pencil sharpener shavings",
+            "width": 1280,
+            "height": 853
+        },
+        {
+            "image": 45,
+            "caption": "Scissors",
+            "width": 1280,
+            "height": 715
+        },
+        {
+            "image": 46,
+            "caption": "Bottle caps",
+            "width": 1280,
+            "height": 820
+        },
+        {
+            "image": 48,
+            "caption": "Power socket/outlet",
+            "width": 891,
+            "height": 1280
+        },
+        {
+            "image": 49,
+            "caption": "Power pole",
+            "width": 1280,
+            "height": 853
+        },
+        {
+            "image": 50,
+            "caption": "Microphone/Blue Yeti",
+            "width": 611,
+            "height": 1280
+        },
+        {
+            "image": 51,
+            "caption": "USB-A cable",
+            "width": 640,
+            "height": 426
+        },
+        {
+            "image": 52,
+            "caption": "Wire mesh fence",
+            "width": 1280,
+            "height": 960
+        },
+        {
+            "image": 53,
+            "caption": "Piano keys",
+            "width": 1280,
+            "height": 687
+        },
+        {
+            "image": 54,
+            "caption": "Door lock",
+            "width": 1280,
+            "height": 853
         }
     ]
 }

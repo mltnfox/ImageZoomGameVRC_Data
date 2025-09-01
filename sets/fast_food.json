@@ -1,0 +1,29 @@
+{
+    "name": "Fast Food",
+    "items": [
+        {
+            "image": 64,
+            "caption": "Big Mac/McDonald's",
+            "width": 1000,
+            "height": 1000
+        },
+        {
+            "image": 65,
+            "caption": "McNuggets/McDonald's",
+            "width": 1000,
+            "height": 1000
+        },
+        {
+            "image": 66,
+            "caption": "Crunchwrap Supreme/Taco Bell",
+            "width": 480,
+            "height": 480
+        },
+        {
+            "image": 67,
+            "caption": "Chicken Quesadilla/Taco Bell",
+            "width": 480,
+            "height": 480
+        }
+    ]
+}

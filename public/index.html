@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting to GitHub Repository</title>
+    <script>
+        const currentUrl = window.location.href;
+        const githubPagesPattern = /^https:\/\/([^\.]+)\.github\.io\/([^\/]+)/;
+        const match = currentUrl.match(githubPagesPattern);
+        
+        if (match) {
+            const username = match[1];
+            const repoName = match[2];
+            const repoUrl = `https://github.com/${username}/${repoName}`;
+            window.location.replace(repoUrl);
+        } else {
+            window.alert('Unable to determine GitHub repository URL :c');
+        }
+    </script>
+</head>
+<body>
+    <p>Redirecting to the GitHub repository...</p>
+</body>
+</html>
